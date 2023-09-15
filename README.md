@@ -1,2 +1,1 @@
-# sistemyonetim
-Proje Yonetim Sitemi
+Examples of stock market software with Cheat Gpt in Python
